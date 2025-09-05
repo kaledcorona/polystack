@@ -1,0 +1,45 @@
+# Cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution
+build/
+dist/
+*.egg-info/
+*.egg
+src/*.egg-info/
+MANIFEST
+*.manifest 
+*.spec
+*.wheelhouse/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db 
+
+# Unit test 
+.coverage
+.tox/
+.pytest_cache/
+htmlcov/
+.mypy_cache/
+.pyre/
+.pytype/
+.mypy_cache/
+.ruff_cache/
+.pyright/
+
+
+# Jupyter notebook
+.ipynb_checkpoints
+*.ipynb_convert
+.DS_Store
+
+

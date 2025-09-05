@@ -1,0 +1,5 @@
+# Requirements
+pytest
+scikit-learn
+numpy
+joblib
