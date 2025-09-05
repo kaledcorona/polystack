@@ -1,5 +1,13 @@
 # Polystack
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/kaledcorona/polystack/main/docs/assets/polystack_dark.svg">
+  <img alt="Polystack banner"
+       src="https://raw.githubusercontent.com/kaledcorona/polystack/main/docs/assets/polystack_light.svg"
+       width="720">
+</picture>
+
 > **Multi‑view stacking for scikit‑learn, with fast single‑view fallback and typed API.**
 
 Polystack lets you train **one estimator per data source (a *view*)** and then learn a
