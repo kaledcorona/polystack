@@ -76,4 +76,4 @@ known-first-party = ["polystack"]
 
 
 [project.optional-dependencies]
-dev = ["pytest", "pytest-cov", "ruff", "black", "mypy", "scikit-learn", "numpy", "pandas"]
+dev = ["pytest", "pytest-cov", "ruff", "black", "mypy"]
